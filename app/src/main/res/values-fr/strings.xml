@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TD1Activiter</string>
+    <string name="relative_layout">Voici ma premiere application android</string>
+</resources>

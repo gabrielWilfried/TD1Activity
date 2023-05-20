@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TD1Activity</string>
+    <string name="relative_layout">This is my first android app</string>
+</resources>
